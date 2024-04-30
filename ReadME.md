@@ -8,4 +8,9 @@ Example of queries that should be answered:
 - How many male and female characters are in the movie?
 - Does the script pass the Bechdel test?
 - What is the role of Deckard in the movie?
+
+Here is the demo link:
+
+https://github.com/shalinimeena/QnA-system-using-LLMs/assets/101329715/3648802c-b087-416d-b5b0-05a13be373e7
+
 ```
