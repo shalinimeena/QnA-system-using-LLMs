@@ -1,5 +1,5 @@
 ```
-Designed a solution utilizing **open-source large language models** to efficiently respond to queries where the answers need to be derived from extensive PDF documents (exceeding 100 pages).
+Designed a solution utilizing open-source large language models to efficiently respond to queries where the answers need to be derived from extensive PDF documents (exceeding 100 pages).
 
 Example of queries that should be answered:
 
