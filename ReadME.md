@@ -1,4 +1,4 @@
-```
+
 Designed a solution utilizing open-source large language models to efficiently respond to queries where the answers need to be derived from extensive PDF documents (exceeding 100 pages).
 
 Example of queries that should be answered:
@@ -13,4 +13,6 @@ Here is the demo link:
 
 https://github.com/shalinimeena/QnA-system-using-LLMs/assets/101329715/3648802c-b087-416d-b5b0-05a13be373e7
 
-```
+deploy link:
+https://qna-system-using-llms-isbzqx6ndr6pzdoxy5a2fl.streamlit.app/
+
